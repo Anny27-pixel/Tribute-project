@@ -1,0 +1,61 @@
+body {
+  background-color: bisque;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 35%;
+  height: 35%;
+  color: whitesmoke;
+  text-align: center;
+  background-color: rgb(117, 122, 91);
+  box-sizing: border-box;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  box-shadow: 20px 10px 15px 5px rgb(72, 85, 5);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+  height: 22%;
+}
+dl > dt > h2 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: whitesmoke;
+}
+dt {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: whitesmoke;
+}
+dt > h3 {
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: whitesmoke;
+}
+#contact {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(14, 10, 8);
+}
+a {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: firebrick;
+}
+a:hover {
+  color: green;
+}
+
+#para {
+  text-align: center;
+  font-size: small;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: whitesmoke;
+}
